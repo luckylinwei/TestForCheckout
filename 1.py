@@ -16,3 +16,6 @@ print(string_similarity_ngram(str1, str2, 2))
 #This is the first commit
 def f():
 	print("This is the second commit")
+	
+def ff():
+	print("Add this function for the third commit")
