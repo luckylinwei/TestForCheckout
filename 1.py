@@ -14,3 +14,5 @@ str1 = "verticalDrawAction"
 str2 = "drawVerticalAction"
 print(string_similarity_ngram(str1, str2, 2))
 #This is the first commit
+def f():
+	print("This is the second commit")
