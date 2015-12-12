@@ -1,0 +1,26 @@
+commit b63339f4703672d3b111338f1d49214cf353fac1
+Author: luckylinwei <luckylinwei@sina.cn>
+Date:   Sat Dec 12 20:01:31 2015 +0800
+
+    Third Commit
+
+ 1.py | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 1f7c4a7257f2cfb8b75add56aff5901fb6ffbda6
+Author: luckylinwei <luckylinwei@sina.cn>
+Date:   Sat Dec 12 19:55:55 2015 +0800
+
+    Second Commit
+
+ 1.py | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 13b77f6d5feefec7e9dc080d11636c4d57f5d1ad
+Author: luckylinwei <luckylinwei@sina.cn>
+Date:   Sat Dec 12 19:51:59 2015 +0800
+
+    First Commit
+
+ 1.py | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+)
